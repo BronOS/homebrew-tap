@@ -1,6 +1,6 @@
 cask "cc-cockpit" do
-  version "0.17.0"
-  sha256 "fcedc046a4fb49516be97c9bda6fbdfb19280c16cae9efd611952773cc9ea95b"
+  version "0.18.1"
+  sha256 "9ede60d9fe5ee92ad96e8c67f33caa1b8ad12d08ddc1cbb9b772127f0c646cbf"
 
   url "https://github.com/BronOS/cc-cockpit/releases/download/v#{version}/cc-cockpit-#{version}-mac-arm64.dmg"
   name "cc-cockpit"
